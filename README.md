@@ -232,3 +232,4 @@ Keys are stored on disk and unlocked using a passcode. Passcode can be provided 
 # License
 
 [AGPL](https://www.gnu.org/licenses/agpl.html)
+# dex-app
