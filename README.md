@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sigillabs/mobidex) 
+
 # Mobidex
 
 ![animated preview](https://github.com/sigillabs/mobidex/raw/master/images/previews/animated/10-06-2018T13-57-49.gif)
@@ -232,3 +234,4 @@ Keys are stored on disk and unlocked using a passcode. Passcode can be provided 
 # License
 
 [AGPL](https://www.gnu.org/licenses/agpl.html)
+# dex-app
